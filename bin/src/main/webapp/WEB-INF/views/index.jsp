@@ -4,8 +4,6 @@
 
 <div class="container">
 	<h1>메인 페이지</h1>
-	</hr>
-	<h3>페이지</h3>
 </div>
 
 
