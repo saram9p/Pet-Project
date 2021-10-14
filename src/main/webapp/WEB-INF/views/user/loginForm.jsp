@@ -4,4 +4,5 @@
 	<h1>로그인 페이지</h1>
 </div>
 
+<h3>로그인하기</h3>
 <%@ include file="../layout/footer.jsp"%>
